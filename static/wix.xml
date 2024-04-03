@@ -4,7 +4,7 @@
   <Product Id="{{ProductCode}}" 
            UpgradeCode="{{UpgradeCode}}"
            Name = "{{ApplicationName}} (Machine - MSI)"
-           Version="{{SemanticVersion}}"
+           Version="{{Version}}"
            Manufacturer="{{Manufacturer}}"
            Language="{{Language}}">
     <!-- Only run this installer on Windows 7 or up (or if it"s already installed, I guess) -->
